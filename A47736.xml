@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief account of the Socinian Trinity in a letter to a friend, June 1694.</title>
+            <author>Leslie, Charles, 1650-1722.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47736</idno>
+            <idno type="STC">Wing L1121</idno>
+            <idno type="STC">ESTC R37965</idno>
+            <idno type="EEBO-CITATION">17156526</idno>
+            <idno type="OCLC">ocm 17156526</idno>
+            <idno type="VID">105991</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47736)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105991)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1618:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief account of the Socinian Trinity in a letter to a friend, June 1694.</title>
+                  <author>Leslie, Charles, 1650-1722.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Charles Brome ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Lesie by Wing and NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Socinianism --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105991:1"/>
+            <!-- PDF PAGE 94 -->
+            <pb facs="tcp:105991:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 94 -->
+            <p>A Brief Account OF THE <hi>Socinian Trinity.</hi>
+            </p>
+            <p>IN A LETTER TO A FRIEND, <hi>June,</hi> 1694.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Charles Brome,</hi> at the <hi>Gun, West-End</hi> of St. <hi>Paul</hi>'s, 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:105991:2"/>
+            <!-- PDF PAGE 95 -->
+            <pb n="3" facs="tcp:105991:2"/>
+            <!-- PDF PAGE 95 -->
+            <head>A BRIEF ACCOUNT OF THE <hi>Socinian Trinity.</hi> In a LETTER to a FRIEND.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE <hi>Socinians</hi> hold a <hi>Trinity</hi> as well as we: They have late<g ref="char:EOLhyphen"/>ly Publiſhed <hi>Bidle</hi>'s <hi>Confeſsion of Faith touching the Holy Trinity.</hi> But in the Explanation of this is all the diffe<g ref="char:EOLhyphen"/>rence:
+<pb n="4" facs="tcp:105991:3"/>
+               <!-- PDF PAGE 96 -->He, and one part of the <hi>Socini<g ref="char:EOLhyphen"/>ans,</hi> make the <hi>Second</hi> and <hi>Third</hi> Per<g ref="char:EOLhyphen"/>ſons to be <hi>Creatures,</hi> wherein they are guilty of a very groſs ſort of <hi>Idolatry,</hi> beyond what was acknowledged by any of the <hi>Heathens,</hi> To join <hi>Creatures</hi> into one <hi>Holy Trinity</hi> with <hi>God,</hi> and to <hi>Baptize</hi> Men into the Faith and Wor<g ref="char:EOLhyphen"/>ſhip of <hi>Creatures.</hi> The <hi>Arians</hi> could never anſwer the Charge of <hi>Idolatry</hi> in giving Divine Honour to <hi>Chriſt,</hi> while they acknowledged him to be but a <hi>Creature:</hi> Nor can the <hi>VVorſhip</hi> of <hi>Chriſt,</hi> ſuppoſing him but a <hi>Creature,</hi> be excuſed from <hi>Idolatry,</hi> by any manner of way, which will not at the ſame time juſtifie the Excuſes not only of the <hi>Church of Rome,</hi> but of the <hi>Heathens</hi> themſelves for their <hi>Idolatry.</hi>
+            </p>
+            <p>Another ſort of <hi>Socinians</hi> deny the <hi>Second</hi> and <hi>Third</hi> of the <hi>Trinity</hi> to be <hi>Perſons:</hi> And make them no more than the <hi>Power</hi> and <hi>VViſdom</hi> of <hi>God,</hi> one
+<pb n="5" facs="tcp:105991:3"/>
+               <!-- PDF PAGE 96 -->call'd his <hi>VVord,</hi> the other his <hi>Spirit,</hi> but yet that they are <hi>nothing different from God;</hi> as by a Man's <hi>Spirit,</hi> you mean the Man himſelf. Thus the <hi>Brief History of the Uni-tarians.</hi>
+            </p>
+            <p>But, by this Rule, they cannot ſtop at a <hi>Trinity</hi> in <hi>God,</hi> but muſt go thro' all his Attributes, <hi>Juſtice, Mercy, Provi<g ref="char:EOLhyphen"/>dence, Omnipotence, Eternity,</hi> and Twen<g ref="char:EOLhyphen"/>ty more; and inſtead of the <hi>Three in Heaven</hi> (which they acknowledge) they muſt go to a <hi>Fourth, Fifth, Sixth,</hi> and without End.</p>
+            <p>In the next Place, where it is ſaid, <hi>John</hi> 1.14. <hi>The VVord was made Fleſh,</hi> they ſay that no <hi>Perſon</hi> was made <hi>Fleſh:</hi> This <hi>Second</hi> of the <hi>Trinity</hi> they ſay is not a <hi>Perſon,</hi> but only God's <hi>Power,</hi> or the <hi>Manifestation</hi> of his <hi>Pow<g ref="char:EOLhyphen"/>er,</hi> which they ſay <hi>Inhabited</hi> an Hu<g ref="char:EOLhyphen"/>mane Perſon; <hi>i. e.</hi> the Perſon of <hi>Jeſus Chriſt.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:105991:4"/>
+               <!-- PDF PAGE 97 -->
+So God <hi>Inhabited</hi> or <hi>Inſpired</hi> the <hi>Pro<g ref="char:EOLhyphen"/>phets, Apoſtles,</hi> &amp;c. but this did not make Him to become <hi>Fleſh.</hi>
+            </p>
+            <p>But he inſpired Chriſt in a <hi>Higher Degree.</hi>
+            </p>
+            <p>The <hi>Degree</hi> ſignifies nothing as to the being made <hi>Fleſh.</hi> No <hi>Inſpiration</hi> or <hi>Inhabitation</hi> of God, or any thing leſs than an <hi>Imperſonation; i. e.</hi> taking our Fleſh into his own <hi>Perſon,</hi> ſo as to be one <hi>Perſon</hi> with him, nothing leſs than this can make him to be <hi>Fleſh.</hi>
+            </p>
+            <p>And it is certain that nothing can be made <hi>Fleſh</hi> but a <hi>Perſon.</hi> A <hi>Mani<g ref="char:EOLhyphen"/>feſtation</hi> of God, or of any thing elſe, is nothing in it ſelf; it is but our man<g ref="char:EOLhyphen"/>ner of Apprehending what is <hi>manifeſted</hi> or <hi>ſhewn</hi> to us: And to talk of this being made <hi>Fleſh,</hi> is the groſeſt Non<g ref="char:EOLhyphen"/>ſence and Contradiction: Therefore if there be but <hi>One Perſon</hi> in the <hi>Tri<g ref="char:EOLhyphen"/>nity</hi> (as this Sett of <hi>Socinians</hi> do hold) then the <hi>whole Trinity</hi> was made <hi>Fleſh;</hi>
+               <pb n="7" facs="tcp:105991:4"/>
+               <!-- PDF PAGE 97 -->and then they muſt come to <hi>Muggleton,</hi> who ſays, as they do, that there is but One <hi>Perſon</hi> in the <hi>Godhead,</hi> which is God the <hi>Father;</hi> and that <hi>He</hi> was <hi>Incarnate,</hi> and really <hi>Died,</hi> ſo that there was then no God: But <hi>Muggle<g ref="char:EOLhyphen"/>ton</hi> ſays that <hi>Elijah</hi> govern'd in his ab<g ref="char:EOLhyphen"/>ſence, Rais'd him from the Dead, and Reſtor'd him his Throne, and then He was God again.</p>
+            <p>But, on the other hand, if there be Three <hi>Perſons</hi> in the <hi>Holy Trinity</hi> (as the reſt of our <hi>Socinians</hi> do hold) But the <hi>Second</hi> and <hi>Third</hi> only <hi>Creatures,</hi> and that the <hi>Word</hi> (the <hi>Second</hi> Perſon) was <hi>Incarnate;</hi> then they muſt anſwer for their <hi>Idolatry,</hi> in Worſhiping a meer <hi>Creature;</hi> and anſwer the Cloud of Texts which require and atteſt Divine Honor to be due to <hi>Christ,</hi> and Command the very <hi>Angels of God</hi> to <hi>Worſhip</hi> Him.</p>
+            <p>
+               <pb n="8" facs="tcp:105991:5"/>
+               <!-- PDF PAGE 98 -->
+But, to turn again to thoſe <hi>Socini<g ref="char:EOLhyphen"/>ans</hi> who will have but one <hi>Perſon</hi> in the <hi>Trinity,</hi> they put this Meaning upon <hi>Matth.</hi> 28.19. that we are Bapti<g ref="char:EOLhyphen"/>zed in the Name of the <hi>Father,</hi> and of the <hi>Son</hi> (who is the ſelf-ſame <hi>Perſon</hi> with the Father) and of the <hi>Holy Ghost</hi> (who is the ſame <hi>Perſon</hi> with them Both.)</p>
+            <p>Again, <hi>Matth.</hi> 12.32. if you ſin againſt <hi>one</hi> of theſe you ſhall be for<g ref="char:EOLhyphen"/>given; but if you ſin againſt <hi>another</hi> (who is the very ſame with that <hi>one</hi>) you ſhall not be forgiven.</p>
+            <p>Now, I pray you, compare their <hi>Trinity</hi> and ours. They make <hi>Three in Heaven</hi> who are not <hi>only Three,</hi> but may be <hi>Threeſcore,</hi> and yet all but one and the ſelf-ſame <hi>Perſon.</hi>
+            </p>
+            <p>We acknowledge the <hi>Three in Hea<g ref="char:EOLhyphen"/>ven,</hi> whom the Scriptures tell us of, to be <hi>only Three,</hi> and that they are <hi>Three Perſons.</hi>
+            </p>
+            <p>
+               <pb n="9" facs="tcp:105991:5"/>
+               <!-- PDF PAGE 98 -->
+               <hi>One</hi> of theſe was made <hi>Fleſh,</hi> the <hi>other</hi> not, yet they will not allow them to be different <hi>Perſons,</hi> but that He who took Fleſh, and He who did not take Fleſh were the ſame, or that they were not <hi>Two.</hi>
+            </p>
+            <p>Theſe are the Men who cry out upon <hi>Mysteries;</hi> and pretend to Ex<g ref="char:EOLhyphen"/>plain their Faith wholly by <hi>Reaſon</hi> and <hi>Demonſtration,</hi> and to make it eaſie and intelligible to the meaneſt Under<g ref="char:EOLhyphen"/>ſtanding!</p>
+            <p>Beſides, they differ more (if more can be) betwixt one another, than they do from us. What greater dif<g ref="char:EOLhyphen"/>ference can there be concerning the <hi>Object</hi> of our <hi>Worſhip</hi> than <hi>one</hi> to make it <hi>GOD,</hi> the <hi>other</hi> but a <hi>Crea<g ref="char:EOLhyphen"/>ture?</hi> As it is among the <hi>Socinians,</hi> in their Opinion of the <hi>Second,</hi> and <hi>Third</hi> in the <hi>Holy Trinity.</hi> What greater difference, than for one to ſay they are <hi>Perſons,</hi> another <hi>no Perſons?</hi> One
+<pb n="10" facs="tcp:105991:6"/>
+               <!-- PDF PAGE 99 -->to ſay they are <hi>Adorable,</hi> the other <hi>not?</hi> Muſt not one of theſe think the other <hi>Idolaters?</hi> And the other think them <hi>Profane,</hi> and Erroneous <hi>in Faith,</hi> who deny Divine Honour to whom it is Due?</p>
+            <p>Theſe call themſelves <hi>Unitarians;</hi> yet there is not, nor can be in the World, greater <hi>Diviſion,</hi> and at far<g ref="char:EOLhyphen"/>ther diſtance, than betwixt the ſeveral ſorts of theſe, who own themſelves by one <hi>Name,</hi> and would have the World believe that they have the ſame <hi>Faith:</hi> Which, when ſo con<g ref="char:EOLhyphen"/>tradictory to it ſelf, it can be Ill ex<g ref="char:EOLhyphen"/>pected to agree with the <hi>Holy Scri<g ref="char:EOLhyphen"/>ptures,</hi> and with the <hi>Holy Catholick Church.</hi>
+            </p>
+            <p>We acknowledge a Great and Sub<g ref="char:EOLhyphen"/>lime <hi>Myſtery</hi> in the <hi>Holy Trinity</hi> of <hi>GOD:</hi> That is a <hi>Myſtery</hi> to us, which exceeds our Underſtanding. And many ſuch <hi>Myſteries</hi> there are,
+<pb n="11" facs="tcp:105991:6"/>
+               <!-- PDF PAGE 99 -->to us, in the <hi>Nature</hi> of <hi>God</hi> which we all acknowledge; A <hi>Firſt Cauſe</hi> with<g ref="char:EOLhyphen"/>out a <hi>Beginning!</hi> A Being which nei<g ref="char:EOLhyphen"/>ther <hi>made it ſelf,</hi> nor was made <hi>by any other! Infinite</hi> without <hi>Extenſion!</hi> In <hi>every place,</hi> yet circumſcrib'd in <hi>no place! Eternal</hi> and <hi>Perpetually Exiſting,</hi> without any <hi>Succeſsion!</hi> a <hi>Preſent,</hi> with<g ref="char:EOLhyphen"/>out <hi>Past,</hi> or <hi>Future!</hi> and many other ſuch <hi>un-Explainable, un-Intelligible, In<g ref="char:EOLhyphen"/>comprehenſible Myſteries;</hi> which yet hinder not our Belief of a <hi>God.</hi> And therefore not being able <hi>fully</hi> and <hi>clearly</hi> to explain the <hi>Trinity,</hi> which is the moſt <hi>hidden</hi> and <hi>ſecret</hi> Attribute of the Nature of <hi>God,</hi> can be no Reaſon for us to reject ſuch Revelation which <hi>God</hi> has given us of Himſelf. Yet do we not want ſeveral <hi>Shadows</hi> and <hi>Reſemblances</hi> of one <hi>Nature</hi> communi<g ref="char:EOLhyphen"/>cating it ſelf to many <hi>Individuals,</hi> with<g ref="char:EOLhyphen"/>out either a <hi>Multiplication</hi> or <hi>Divi<g ref="char:EOLhyphen"/>ſion</hi> of the <hi>Nature.</hi> We ſay that the
+<pb n="12" facs="tcp:105991:7"/>
+               <!-- PDF PAGE 100 -->
+               <hi>Soul</hi> is <hi>all</hi> in <hi>all,</hi> and <hi>all</hi> in <hi>every part</hi> of the <hi>Body;</hi> yet that the <hi>Soul</hi> is neither <hi>Multiplied</hi> nor <hi>Divided</hi> among the ſeveral <hi>Members</hi> of the <hi>Body.</hi> It is impoſſible for us either to <hi>Explain</hi> this, or to <hi>Deny</hi> it; for we <hi>feel</hi> it to be ſo, though it is wholly <hi>unconcei<g ref="char:EOLhyphen"/>vable</hi> to us <hi>how it can be.</hi> Now if the <hi>Soul,</hi> which is but an <hi>Image</hi> of <hi>God,</hi> at an Infinite diſtance, can commu<g ref="char:EOLhyphen"/>nicate it ſelf to ſeveral <hi>Members,</hi> without breach of its <hi>Unity;</hi> why ſhould it be Impoſſible for the <hi>Eternal</hi> and <hi>Infinite Mind</hi> to communicate it ſelf to ſeveral <hi>Perſons,</hi> without breach of its <hi>Unity;</hi> I will be bold to ſay, you will not find ſo near a <hi>Parallel</hi> in <hi>Nature</hi> whereby to conceive of God's <hi>Eternity,</hi> or his <hi>Infinity,</hi> as this, and a great many more, whereby we may conceive of His <hi>Trinity</hi> and <hi>Unity,</hi> by what we feel in our ſelves, and ſee in a thouſand things that are
+<pb n="13" facs="tcp:105991:7"/>
+               <!-- PDF PAGE 100 -->before us. We ſee <hi>Extenſion</hi> not <hi>Divided</hi> but <hi>Distinguiſh'd</hi> into its three <hi>Dimenſions;</hi> and Communicating its <hi>whole Nature</hi> to <hi>each</hi> of the <hi>Three,</hi> for <hi>Each</hi> is <hi>Extenſion;</hi> and yet there is but <hi>one Extenſion</hi> in all the <hi>Three.</hi>
+            </p>
+            <p>The <hi>Soul</hi> is not <hi>Divided</hi> betwixt its ſeveral <hi>Faculties;</hi> they remain per<g ref="char:EOLhyphen"/>fectly <hi>diſtinguiſh'd,</hi> though not <hi>divi<g ref="char:EOLhyphen"/>ded</hi> from one another: To <hi>underſtand</hi> what is <hi>preſent,</hi> is a quite different thing from <hi>Remembring</hi> what is <hi>Paſt;</hi> and to <hi>Love</hi> or <hi>Hate,</hi> is different from both of theſe; yet theſe Three Fa<g ref="char:EOLhyphen"/>culties, the <hi>Understanding,</hi> the <hi>Me<g ref="char:EOLhyphen"/>mory,</hi> and the <hi>Will,</hi> partake all equally of the ſame <hi>Soul.</hi>
+            </p>
+            <p>
+               <hi>Light</hi> and <hi>Heat</hi> are ſo <hi>different,</hi> that ſome are capable of the <hi>One,</hi> who are not of the <hi>Other;</hi> and yet they are not <hi>Divided</hi> in the <hi>Sun;</hi> but flow <hi>equally</hi> and <hi>naturally</hi> from it without any <hi>Diviſion</hi> of its <hi>Nature.</hi>
+            </p>
+            <p>
+               <pb n="14" facs="tcp:105991:8"/>
+               <!-- PDF PAGE 101 -->
+I ſay not that any of theſe <hi>Parallels</hi> do come up to the full explanation of the Communication of the <hi>Divine Nature</hi> to ſeveral <hi>Perſons,</hi> without any <hi>Diviſion</hi> or <hi>Multiplication</hi> of the <hi>Nature:</hi> But I am ſure they take away the <hi>Contradiction</hi> alledged to be in it, while we ſee the ſame <hi>Difficulty</hi> in our own and other Natures, which we can as little Explain.</p>
+            <p>But, inſtead of ſolving this diffi<g ref="char:EOLhyphen"/>culty, the <hi>Socinians</hi> have made it a downright and Irreconcileable <hi>Con<g ref="char:EOLhyphen"/>tradiction.</hi> They would have <hi>Three</hi> to be <hi>One</hi> and the ſelf-ſame <hi>Perſon.</hi> This cannot be ſav'd from a <hi>Con<g ref="char:EOLhyphen"/>tradiction.</hi> They acknowledge the <hi>Three in Heaven,</hi> the <hi>Father,</hi> the <hi>Word,</hi> and the <hi>Spirit.</hi> If theſe are <hi>one</hi> and the ſelf-ſame <hi>Perſon,</hi> they cannot be <hi>Three.</hi> If they are one <hi>Nature,</hi> and ſeveral <hi>Perſons;</hi> this is a <hi>Diffi<g ref="char:EOLhyphen"/>culty,</hi> it is a <hi>Mystery;</hi> but it is no
+<pb n="15" facs="tcp:105991:8"/>
+               <!-- PDF PAGE 101 -->
+               <hi>Contradiction,</hi> becauſe they are not <hi>One</hi> and <hi>Three</hi> in the <hi>ſame reſpect;</hi> for that is neceſſary to make it a <hi>Contradiction.</hi> In <hi>one Reſpect,</hi> that is of their <hi>Nature,</hi> they are <hi>One;</hi> in an <hi>other Reſpect,</hi> that is, of their <hi>Perſons,</hi> they are <hi>Three.</hi> But if they are <hi>One</hi> in <hi>Perſon,</hi> as well as in <hi>Na<g ref="char:EOLhyphen"/>ture;</hi> and yet are <hi>Three</hi> (as theſe <hi>So<g ref="char:EOLhyphen"/>cinians</hi> do confeſs) then they are <hi>Three</hi> and <hi>One,</hi> in the <hi>ſelf-ſame Reſpect,</hi> which is a full <hi>Contradiction.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
